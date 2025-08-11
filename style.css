@@ -1,0 +1,38 @@
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f9f9f9;
+  color: #333;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+  line-height: 1.6;
+  background-color: #e6f0ff
+  
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 2.4rem;
+  margin-bottom: 24px;
+  text-align: center;
+  color: #222;
+}
+
+
+p {
+  margin-bottom: 16px;
+  text-align: justify;
+  text-justify: inter-word;
+  white-space: pre-line;
+ 
+  max-width: 700px;           
+  text-align: justify;        
+
+}
+fieldset{
+background-color: #f0f0ff;
+border-radius: 15px;
+}
+
+
